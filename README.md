@@ -1,0 +1,1 @@
+A test of one's philosophical predisposition which utilizes an advanced mathematical algorithm to determine where you are on the philosophical spectrum.
